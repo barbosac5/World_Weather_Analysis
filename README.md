@@ -9,7 +9,7 @@ For Delverable 1, I wask tasked in retireving weather data on 2,000 different la
 When retrieving this data, I also got information on the citiies that resides in the latttuides and longitudes I gathered such as its name, max temperature and weather description. I then created a new DataFrame for all cities gathered.
 
 ### Updated Cities DataFrame
-![Updated_Cities_DataFrame](./Weather_Database/Updated_Cities_.png)
+![Updated_Cities_DataFrame](./Weather_Database/Updated_Cities_DF.png)
 
 
 ## Deliverable 2
