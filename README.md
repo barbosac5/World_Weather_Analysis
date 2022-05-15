@@ -15,7 +15,8 @@ When retrieving this data, I also got information on the citiies that resides in
 ## Deliverable 2
 Deliverable 2, with the help of Google Cloud Platform, I identified potential travel destinations and potential hotels for travelers. I then placed the hotels as markers around the globe in order to give travelers options no matter where they are. 
 
-### insert pictures here
+### World Map
+![World_Map](./Vacation_Search/World_Map.png)
 
 ## Deliverable 3
 For the final Deliverable, I used the Google directions API to create a travel itinerary showing a route between four cities from a customer's travel destinations. I then created a marker map with pop-ups that labels each city's name and info on the itinerary.
