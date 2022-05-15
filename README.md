@@ -8,7 +8,9 @@ For Delverable 1, I wask tasked in retireving weather data on 2,000 different la
 ## Deliverable 1
 When retrieving this data, I also got information on the citiies that resides in the latttuides and longitudes I gathered such as its name, max temperature and weather description. I then created a new DataFrame for all cities gathered.
 
-### * inset picture here
+### Updated Cities DataFrame
+![Updated_Cities_DataFrame](./Weather_Database/Updated_Cities_.png)
+
 
 ## Deliverable 2
 Deliverable 2, with the help of Google Cloud Platform, I identified potential travel destinations and potential hotels for travelers. I then placed the hotels as markers around the globe in order to give travelers options no matter where they are. 
