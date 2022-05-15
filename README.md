@@ -21,8 +21,11 @@ Deliverable 2, with the help of Google Cloud Platform, I identified potential tr
 ## Deliverable 3
 For the final Deliverable, I used the Google directions API to create a travel itinerary showing a route between four cities from a customer's travel destinations. I then created a marker map with pop-ups that labels each city's name and info on the itinerary.
 
-### insert pictures here
+### Driving Map
+![Driving_Map](./Vacation_Itinerary/Driving_Map.png)
 
+### Hotel Map
+![Hotel_Map](./Vacation_Itinerary/Hotel_Map.png)
 
 # Resources
 
